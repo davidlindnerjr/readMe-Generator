@@ -17,6 +17,8 @@ This was definitely an interesting project. The biggest challenge I had to overc
 https://drive.google.com/file/d/1DHFWLwxxBh_UZu0m8eyUCrioe88V76Yi/view
 
 ## Screenshots
+![index js - good-readMe-generator - Visual Studio Code 8_30_2020 12_34_11 PM](https://user-images.githubusercontent.com/65383133/91667949-3d83fc80-eabd-11ea-95f4-e50bc3df63a2.png)
+![index js - good-readMe-generator - Visual Studio Code 8_30_2020 12_34_41 PM](https://user-images.githubusercontent.com/65383133/91667958-41178380-eabd-11ea-9192-10e0078707e4.png)
 
 ## License
 
