@@ -12,7 +12,9 @@ This was definitely an interesting project. The biggest challenge I had to overc
 4. Run index.js in the terminal
 5. Answer prompts listed on the screen to generate your README.
 
-## Link to Deployed Application
+## Walkthrough Video
+
+https://drive.google.com/file/d/1DHFWLwxxBh_UZu0m8eyUCrioe88V76Yi/view
 
 ## Screenshots
 
@@ -44,5 +46,5 @@ SOFTWARE.
 
 ## Questions
 
-Github: https://github.com/davidlindnerjr/
-Email: davidlindnerjr@gmail.com - Best to reach me through email
+* Github: https://github.com/davidlindnerjr/
+* Email: davidlindnerjr@gmail.com - Best to reach me through email
